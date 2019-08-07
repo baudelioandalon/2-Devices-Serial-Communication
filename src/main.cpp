@@ -48,6 +48,7 @@ void loop() {
    }
    
 
+
       if(Temp.length() == sizeOfMessage){
         
           if(Temp.equals(message)){
