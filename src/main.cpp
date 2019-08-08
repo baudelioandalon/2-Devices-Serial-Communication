@@ -45,7 +45,7 @@ void loop() {
       delay(50);
       //STEP 6: Quit blank space and car return
           Temp.trim();
-   }
+   }//fin while
    
 
 
